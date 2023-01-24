@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+body{
+  min-height: 100vh;
+  background: linear-gradient(to bottom , grey , skyblue , pink , white);
+  background-repeat: no-repeat;
+}
